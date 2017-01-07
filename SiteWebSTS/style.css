@@ -1,0 +1,15 @@
+p, h1 /* p tous les paragrphe du html et des titre h1 ( * prend toutes les balises de la page), h1 + p qui vient après le titre h1 ou h1 em par exemple qui prend que les em du h1  */
+{
+	color: black; /* les ligne paragraphe et titre h1 */
+	font-weight: bold; /* En gras */
+}
+
+.introduction /* Il est pour les class et peut être utilisé pour plusieur ligne */
+{
+	color: yellow;
+}
+
+#lien /* Pour les id mais ne peut pas être mis plusieur fois avec le même id alors que class il le peut*/
+{
+	color: purple;
+}
