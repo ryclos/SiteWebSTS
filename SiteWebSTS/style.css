@@ -2,6 +2,7 @@ p, h1 /* p tous les paragrphe du html et des titre h1 ( * prend toutes les balis
 {
 	color: black; /* les ligne paragraphe et titre h1 */
 	font-weight: bold; /* En gras */
+	font-size: 30px;
 }
 
 .introduction /* Il est pour les class et peut être utilisé pour plusieur ligne */
@@ -12,4 +13,9 @@ p, h1 /* p tous les paragrphe du html et des titre h1 ( * prend toutes les balis
 #lien /* Pour les id mais ne peut pas être mis plusieur fois avec le même id alors que class il le peut*/
 {
 	color: purple;
+}
+
+.image
+{
+	font-style: relative;
 }
